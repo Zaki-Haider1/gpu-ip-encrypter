@@ -1,0 +1,152 @@
+2025-11-23 18:15:43,792 - INFO - GPU AES initialized.
+2025-11-23 18:15:43,792 - INFO - Decrypter listening on 127.0.0.200:9999
+2025-11-23 18:15:45,191 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,192 - INFO - Decrypted: Src=127.0.0.72, Dst=127.0.0.1, PayloadLen=36
+2025-11-23 18:15:45,192 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,201 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,201 - INFO - Decrypted: Src=127.0.0.175, Dst=127.0.0.1, PayloadLen=123
+2025-11-23 18:15:45,201 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,211 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,211 - INFO - Decrypted: Src=127.0.0.211, Dst=127.0.0.1, PayloadLen=88
+2025-11-23 18:15:45,211 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,221 - INFO - Received 64 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,222 - INFO - Decrypted: Src=127.0.0.136, Dst=127.0.0.1, PayloadLen=46
+2025-11-23 18:15:45,222 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,232 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,232 - INFO - Decrypted: Src=127.0.0.222, Dst=127.0.0.1, PayloadLen=133
+2025-11-23 18:15:45,232 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,242 - INFO - Received 96 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,242 - INFO - Decrypted: Src=127.0.0.202, Dst=127.0.0.1, PayloadLen=80
+2025-11-23 18:15:45,242 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,252 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,252 - INFO - Decrypted: Src=127.0.0.73, Dst=127.0.0.1, PayloadLen=92
+2025-11-23 18:15:45,252 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,262 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,263 - INFO - Decrypted: Src=127.0.0.87, Dst=127.0.0.1, PayloadLen=27
+2025-11-23 18:15:45,263 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,273 - INFO - Received 96 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,273 - INFO - Decrypted: Src=127.0.0.208, Dst=127.0.0.1, PayloadLen=74
+2025-11-23 18:15:45,273 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,283 - INFO - Received 80 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,283 - INFO - Decrypted: Src=127.0.0.114, Dst=127.0.0.1, PayloadLen=68
+2025-11-23 18:15:45,283 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,293 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,294 - INFO - Decrypted: Src=127.0.0.107, Dst=127.0.0.1, PayloadLen=33
+2025-11-23 18:15:45,294 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,303 - INFO - Received 80 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,304 - INFO - Decrypted: Src=127.0.0.231, Dst=127.0.0.1, PayloadLen=66
+2025-11-23 18:15:45,304 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,314 - INFO - Received 80 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,314 - INFO - Decrypted: Src=127.0.0.141, Dst=127.0.0.1, PayloadLen=67
+2025-11-23 18:15:45,315 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,324 - INFO - Received 96 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,324 - INFO - Decrypted: Src=127.0.0.191, Dst=127.0.0.1, PayloadLen=78
+2025-11-23 18:15:45,324 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,334 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,335 - INFO - Decrypted: Src=127.0.0.54, Dst=127.0.0.1, PayloadLen=103
+2025-11-23 18:15:45,335 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,345 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,345 - INFO - Decrypted: Src=127.0.0.164, Dst=127.0.0.1, PayloadLen=110
+2025-11-23 18:15:45,345 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,355 - INFO - Received 64 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,355 - INFO - Decrypted: Src=127.0.0.100, Dst=127.0.0.1, PayloadLen=53
+2025-11-23 18:15:45,355 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,365 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,366 - INFO - Decrypted: Src=127.0.0.62, Dst=127.0.0.1, PayloadLen=102
+2025-11-23 18:15:45,366 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,375 - INFO - Received 80 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,376 - INFO - Decrypted: Src=127.0.0.38, Dst=127.0.0.1, PayloadLen=57
+2025-11-23 18:15:45,376 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,386 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,386 - INFO - Decrypted: Src=127.0.0.54, Dst=127.0.0.1, PayloadLen=125
+2025-11-23 18:15:45,386 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,396 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,397 - INFO - Decrypted: Src=127.0.0.44, Dst=127.0.0.1, PayloadLen=34
+2025-11-23 18:15:45,397 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,407 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,407 - INFO - Decrypted: Src=127.0.0.89, Dst=127.0.0.1, PayloadLen=24
+2025-11-23 18:15:45,407 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,417 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,417 - INFO - Decrypted: Src=127.0.0.102, Dst=127.0.0.1, PayloadLen=36
+2025-11-23 18:15:45,417 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,427 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,428 - INFO - Decrypted: Src=127.0.0.188, Dst=127.0.0.1, PayloadLen=128
+2025-11-23 18:15:45,428 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,437 - INFO - Received 96 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,438 - INFO - Decrypted: Src=127.0.0.8, Dst=127.0.0.1, PayloadLen=83
+2025-11-23 18:15:45,438 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,448 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,448 - INFO - Decrypted: Src=127.0.0.42, Dst=127.0.0.1, PayloadLen=120
+2025-11-23 18:15:45,448 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,458 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,458 - INFO - Decrypted: Src=127.0.0.13, Dst=127.0.0.1, PayloadLen=110
+2025-11-23 18:15:45,458 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,468 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,469 - INFO - Decrypted: Src=127.0.0.218, Dst=127.0.0.1, PayloadLen=92
+2025-11-23 18:15:45,469 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,479 - INFO - Received 64 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,479 - INFO - Decrypted: Src=127.0.0.58, Dst=127.0.0.1, PayloadLen=54
+2025-11-23 18:15:45,479 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,489 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,489 - INFO - Decrypted: Src=127.0.0.90, Dst=127.0.0.1, PayloadLen=90
+2025-11-23 18:15:45,489 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,499 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,499 - INFO - Decrypted: Src=127.0.0.168, Dst=127.0.0.1, PayloadLen=92
+2025-11-23 18:15:45,499 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,509 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,510 - INFO - Decrypted: Src=127.0.0.165, Dst=127.0.0.1, PayloadLen=35
+2025-11-23 18:15:45,510 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,520 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,520 - INFO - Decrypted: Src=127.0.0.184, Dst=127.0.0.1, PayloadLen=104
+2025-11-23 18:15:45,520 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,530 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,530 - INFO - Decrypted: Src=127.0.0.81, Dst=127.0.0.1, PayloadLen=123
+2025-11-23 18:15:45,530 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,540 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,540 - INFO - Decrypted: Src=127.0.0.200, Dst=127.0.0.1, PayloadLen=115
+2025-11-23 18:15:45,541 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,551 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,551 - INFO - Decrypted: Src=127.0.0.115, Dst=127.0.0.1, PayloadLen=106
+2025-11-23 18:15:45,551 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,561 - INFO - Received 144 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,561 - INFO - Decrypted: Src=127.0.0.248, Dst=127.0.0.1, PayloadLen=125
+2025-11-23 18:15:45,562 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,571 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,571 - INFO - Decrypted: Src=127.0.0.199, Dst=127.0.0.1, PayloadLen=92
+2025-11-23 18:15:45,572 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,582 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,582 - INFO - Decrypted: Src=127.0.0.220, Dst=127.0.0.1, PayloadLen=91
+2025-11-23 18:15:45,582 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,592 - INFO - Received 64 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,592 - INFO - Decrypted: Src=127.0.0.107, Dst=127.0.0.1, PayloadLen=40
+2025-11-23 18:15:45,592 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,602 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,602 - INFO - Decrypted: Src=127.0.0.143, Dst=127.0.0.1, PayloadLen=93
+2025-11-23 18:15:45,602 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,614 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,614 - INFO - Decrypted: Src=127.0.0.192, Dst=127.0.0.1, PayloadLen=112
+2025-11-23 18:15:45,614 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,623 - INFO - Received 48 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,623 - INFO - Decrypted: Src=127.0.0.54, Dst=127.0.0.1, PayloadLen=26
+2025-11-23 18:15:45,623 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,633 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,633 - INFO - Decrypted: Src=127.0.0.167, Dst=127.0.0.1, PayloadLen=118
+2025-11-23 18:15:45,633 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,643 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,644 - INFO - Decrypted: Src=127.0.0.216, Dst=127.0.0.1, PayloadLen=104
+2025-11-23 18:15:45,644 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,654 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,654 - INFO - Decrypted: Src=127.0.0.46, Dst=127.0.0.1, PayloadLen=97
+2025-11-23 18:15:45,654 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,664 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,664 - INFO - Decrypted: Src=127.0.0.200, Dst=127.0.0.1, PayloadLen=101
+2025-11-23 18:15:45,664 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,674 - INFO - Received 128 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,674 - INFO - Decrypted: Src=127.0.0.253, Dst=127.0.0.1, PayloadLen=110
+2025-11-23 18:15:45,675 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,684 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,685 - INFO - Decrypted: Src=127.0.0.70, Dst=127.0.0.1, PayloadLen=92
+2025-11-23 18:15:45,685 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
+2025-11-23 18:15:45,695 - INFO - Received 112 bytes from ('127.0.0.100', 9999)
+2025-11-23 18:15:45,695 - INFO - Decrypted: Src=127.0.0.171, Dst=127.0.0.1, PayloadLen=88
+2025-11-23 18:15:45,695 - INFO - Forwarded packet to 127.0.0.1:12345 (OrigDstPort=12345)
