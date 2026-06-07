@@ -1,2 +1,2 @@
 # gpu-ip-encrypter
-packets generated transferred encrypted decrypter why are you even reading this
+To increase the rate of IP encryption, we made it so it is handled by the GPU through CUDA instead of the CPU. Mostly useful for high traffic locations/offices. The original packet is stripped of its original destination IP and given the destination of an Encrypter server, where it is encrypter based on the desired algorithm, afterwards its given the Destination IP of a decrypter server at the Destination server location and after being processed, its send to the final destination, everything is handled at the application layer for now, though if we are to make a production varient, we will look into working in the IP layer. 
